@@ -1,0 +1,40 @@
+.links  {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1a4e85;
+    color: white;
+    padding: 30px;
+}
+
+.links h4 {
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #7c7979
+}
+
+.card {
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin: 10px;
+    background-color: #6489bc;
+    width: 500px;
+}
+
+.card_heading {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 0;
+}
+
+.card_btn {
+    border-radius: 25px;
+    background-color: #00C68A;
+    color: white;
+    padding: 15px 15px;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 0;
+}
